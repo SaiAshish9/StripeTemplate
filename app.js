@@ -1,7 +1,7 @@
 const express=require('express')
 const app=express()
 const bodyParser=require('body-parser')
-const stripe=require('stripe')("sk_test_P6MbWBj1HBKrkUCk4NQEGCO300CzBvR2PM")
+const stripe=require('stripe')("sk_test_-----")
 
 
 app.use(bodyParser.json())
